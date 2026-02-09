@@ -5,4 +5,4 @@
 
 ## Topics
 ### Genomics
-[Processing and analysis pipeline for shotgun metagenomics sequencing data](https://github.com/BHDSC-Collaborative/MGS_pipeline)
+[Pipeline for processing and classifying shotgun metagenomics sequencing data](https://github.com/BHDSC-Collaborative/MGS_pipeline)
